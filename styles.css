@@ -1,3 +1,20 @@
 h1 {
     text-align: center;
 }
+
+.marker {
+    height: 25px;     <!-- Altura do elemento -->
+    width: 200px;     <!-- Largura do elemento -->
+    margin: auto;
+    margin: 10px auto;    <!-- 10px acima e abaixo / auto, centraliza o conteudo>
+}
+  
+.one {
+    background-color: red;
+}
+.two {
+    background-color: green
+}
+  .three {
+    background-color: blue;
+}

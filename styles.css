@@ -2,19 +2,26 @@ h1 {
     text-align: center;
 }
 
+.container {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0;
+}
+
 .marker {
-    height: 25px;     <!-- Altura do elemento -->
-    width: 200px;     <!-- Largura do elemento -->
+    height: 25px;     /* Altura do elemento */
+    width: 200px;     /* Largura do elemento */
     margin: auto;
-    margin: 10px auto;    <!-- 10px acima e abaixo / auto, centraliza o conteudo>
+    margin: 10px auto;    /* 10px acima e abaixo / auto, centraliza o conteúdo */
 }
   
 .one {
-    background-color: red;
+    background-color: rgb(255, 127, 0);
 }
+
 .two {
-    background-color: green
+    background-color: rgb(0, 255, 255);
 }
-  .three {
-    background-color: blue;
+
+.three {
+    background-color: rgb(255, 0, 255);
 }
